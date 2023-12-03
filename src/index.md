@@ -7,7 +7,7 @@ On this site I'll post lessons and assignments for our class. I do this because 
 ## Quick Links
 
 - [Email me](mailto:mariah.knowles@kctcs.edu)
-- [Syllabus](https://kctcs-my.sharepoint.com/:w:/g/personal/mariah_knowles_kctcs_edu/ER1jdfSQ1bBGsGT9KvKg2lcBbHT-5MFwENwi_z5WeLH3GQ?e=fI7aze) TODO
+- [Syllabus](https://kctcs-my.sharepoint.com/:w:/g/personal/mariah_knowles_kctcs_edu/EUriC2TutuRBszIkE776W5gB5s-xn68Q_diECe4GKLPauQ?e=Eq1AET)
 - [repl.it](https://repl.it/)
 
 !!! tip
