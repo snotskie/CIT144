@@ -6,7 +6,7 @@ Week 13, give feedback to two people, for 6/100 total, or 3/100 each, towards yo
 
 Weeks 14 and 15 you will consider and implement feedback from your three reviewers (two student reviewers plus me). You will include a paragraph in your final draft that says how you did/didn't implement their feedback, for 4/100 towards your final grade.
 
-Finally, Week 15 you will submit your for-real-final draft in the Week Fifteen folder. This is worth 11/100 towards your final grade for a website that makes efficient use of routes+templates, has valid HTML and CSS, is accessible, and clearly works towards the goals that you set out for yourself.
+Finally, Week 15 you will submit your for-real-final draft in the Week Fifteen folder. This is worth 11/100 towards your final grade for a clean, well-documented project that demonstrates our course competencies in computation, GUIs, and data analysis, all working towards the goals that you set out for yourself.
 
 Therefore, the term project will come to a total of 31/100 towards your final grade (all the check-ins, plus the peer review, plus the note about addressing feedback, plus the final draft itself)
 
