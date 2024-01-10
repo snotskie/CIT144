@@ -29,6 +29,24 @@ So, there are two messages from me you'll hear over and over again:
 - You are doing good work. Keep it up
 - I am *always* happy to help, shoot me an email anytime
 
+!!! note "Frustrated with the course? Things not going right?"
+    
+    *This course is designed by you.*
+
+    Feeling frustrated with the course? Things not going like you wanted?
+
+    *That's completely normal.*
+
+    Emotional responses to the way the course is going can be really productive starting points for pointing out things that can be improved, values that matter to you that are important, etc.
+
+    I want you to know that I not only take your feedback seriously into account in this course, but that I actively involve my students in its changes.
+    
+    When you encounter frustrations, etc., a good place to start is [Eberly center's advice for solving teaching problems](https://www.cmu.edu/teaching/solveproblem/step1-problem/index.html):
+
+    1. Identify the problem(s) you're having
+    2. Identify a few possible causes and solutions
+    3. Let me know and describe what's going on, via journal, email, or [github issue](https://github.com/snotskie/CIT144/issues) -- or propose a change to the course yourself directly, by clicking the "edit" button at the top of any page here
+
 ---
 
 Now, on to the reading.
