@@ -212,7 +212,7 @@ Step 2 - Engage in one of the following activities:
 - Take a good nap 
 - Other ideas are welcome!
 
-Step 3 - In the Ask the Instructor board (just to have a place to put it), make a post titled "(your name)'s Wellness Activity" and upload a photo of your activity (if possible and if you’re comfortable doing so) 
+Step 3 - In the Check-in 4 board (just to have a place to put it), make a post titled "(your name)'s Wellness Activity" and upload a photo of your activity (if possible and if you’re comfortable doing so) 
 
 Step 4 - In no more than 150 words or 2-minute audio clip explain how this activity supports your mental health and well-being, and describe the ways in which you can continue to build in self-care during this time 
 
@@ -256,7 +256,7 @@ Each Lab is worth 6/100 towards your final grade.
 
 6/6 - Great job, maximum points! The student completes the Lab accurately and sufficiently and honestly, demonstrating the best of their ability. 
 
-3/6 - Student completes most but not all of the Lab. Or, student completes the Lab, but only to the minimal letter of the prompt, not actually applying the concepts of the unit. If you encounter problems or have questions, be sure to post in Ask the Instructor well before 24 hours before the due date, then continue to attempt to resolve the issue on your own while you wait for a reply. 
+3/6 - Student completes most but not all of the Lab. Or, student completes the Lab, but only to the minimal letter of the prompt, not actually applying the concepts of the unit. If you encounter problems or have questions, be sure to email me well before 24 hours before the due date, then continue to attempt to resolve the issue on your own while you wait for a reply. 
 
 1/6 - Student completes less than half of the Lab with sufficient work, or student leaves entire sections blank. Make sure that you are leaving yourself enough time to complete assignments, as usually students submit incomplete work because they were rushed at the last minute. 
 

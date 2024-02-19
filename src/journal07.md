@@ -44,6 +44,42 @@ As you think about what your data might mean, remember, as I see it, there are f
 
 Notice I mention "ignoring" a lot. My test, personally, for whether it's okay to ignore something is this: If I ignored X, would my answer to my question be inadequate?
 
+---
+
+Update for Spring 2024:
+
+As I've been teaching, Blackboard has gone through several upgrades from year to year. The biggest was when we moved from Blackboard to Blackboard Ultra.
+
+One of the features Ultra introduced was Sentence Complexity. Here's a few real examples from the Spring 2024 semester.
+
+A first grade example:
+
+![Screenshot from the teacher's view when grading a discussion board post in Blackboard. The post is graded by a machine as having a "1st grade" writing level.](assets/img/studio_grade1.png)
+
+A sixth grade example:
+
+![Another similar post, graded as having a "6th grade" writing level.](assets/img/studio_grade6.png)
+
+A seventh grade example:
+
+![Another example, at a "7th grade" writing level.](assets/img/studio_grade7.png)
+
+A fourteenth grade example:
+
+![A final example, at a "14th grade" writing level.](assets/img/studio_grade14.png)
+
+Here, Blackboard is automatically showing teachers a measure of how advanced students' writing is in their discussion board posts. [You should read Blackboard's documentation about this feature](https://help.blackboard.com/Learn/Instructor/Ultra/Interact/Discussions/View_Discussion_Performance#Complexity).
+
+A problem with this system, in my classes at least, is it doesn't tell me anything about the *quality of the student's contribution*, the *measure of their effort*, or *their progress towards some learning objective*.
+
+What happens when students who upload a video with an amazing discussion in it? Unless they also write a lot in that post, because the system does not look at the video itself, they are rated as having a 1st grade writing level, since there just wasn't enough writing.
+
+In this way, the automation favors students who prefer to express themselves in writing -- but not any of the other media types, like audio, video, visual, or even source code.
+
+This week I'm having you think about how you interpret your data. It is also worthwhile to be aware of the information systems that *others* see you through, and to think about how that affects the way they interpret *you*.
+
+From the grade levels assigned above, what can you tell me much about the *goodness* of what the students are doing?
+
 ## Journal
 
 Choose from one of the following two options as you best see fit:

@@ -20,7 +20,7 @@ There are several benefits of online over face-to-face:
 
 But there are also some difficulties students have had in online courses:
 
-- Students not familiar with technology may be asked to perform technological tasks. Keep in mind that you are not being graded on technical expertise unrelated to this course. If you are having problems, email me or post in Ask the Instructor.
+- Students not familiar with technology may be asked to perform technological tasks. Keep in mind that you are not being graded on technical expertise unrelated to this course. If you are having problems, email me.
 - Students will be asked to use the internet more regularly than they are used to. You will need to check your email daily. You will need to engage with your teammates, when applicable, as often as your team requires. I suggest setting the "rules of engagement" that your team will follow on your first day together.
 - Online interaction can be intimidating. We cannot see each other to respond to facial expressions, so all of the pressure is put on our writing abilities to communicate well. For those of us not used to this, this will take time and practice, but it will come.
 
