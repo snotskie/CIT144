@@ -168,7 +168,7 @@ def click_all_clients():
 def click_by_job():
   fig.clf() # clear figure contents
   axis = fig.add_subplot()
-  job_sums = data.groupby(["job"]).mean() # average by job category
+  job_sums = data.groupby(["job"]).mean(numeric_only=True) # average by job category
   job_sums.plot( # draw a plot
     ax=axis,
     kind="barh",
