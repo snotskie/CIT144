@@ -35,6 +35,7 @@ Sites like these have mostly tabular data, which is good for numbers-only type p
 - <https://steamdb.info/>
 - <https://informationisbeautiful.net/data/>
 - <https://github.com/rfordatascience/tidytuesday#datasets>
+- <https://www.opensecrets.org/>
 
 Sites like this have raw text data, which is not split up for you already in a CSV or table like format, but that's no problem, we can write a scraper to load that data, split it up, and automatically attempt to label that data for you (with 1s, 0s, or whatever):
 
