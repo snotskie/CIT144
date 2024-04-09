@@ -58,7 +58,7 @@ Ignore Kirk Saarloos like so:
 
 ```python
 # Load data
-data = read_csv("mlb_players.csv", skipinitialspace=True)
+data = read_csv("lab5_data.csv", skipinitialspace=True)
 good_data = data[data.Weight > 0]
 
 # Check the data
@@ -80,7 +80,7 @@ Update your plot to show grouped-by-team values:
 
 ```python
 # Load data
-data = read_csv("mlb_players.csv", skipinitialspace=True)
+data = read_csv("lab5_data.csv", skipinitialspace=True)
 good_data = data[data.Weight > 0]
 team_data = good_data.groupby(["Team"]).mean(numeric_only=True)
 
